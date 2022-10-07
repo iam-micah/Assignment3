@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="css/styles.css"?>
+<songlist> 
+    <heading> "NORMAL VIBES" Song List -- Micah Nettey </heading> 
+    <body>
+        <song> 
+            <name>1. Honesty</name> 
+            <duration>Duration: [03:09]</duration>
+            <artist>Artist(s): Pink Sweats</artist> 
+            <album>Album: Pink Planet</album>
+            <genre>Genre: R&amp;B/Soul, Pop</genre> 
+            <year>Year: 2018</year>  
+        </song> 
+        <song> 
+            <name>2. Shot Down</name> 
+            <duration>Duration: [03:27]</duration>
+            <artist>Artist(s): Khalid</artist> 
+            <album>Album: American Teen</album>
+            <genre>Genre: R&amp;B/Soul</genre> 
+            <year>Year: 2017</year>  
+        </song> 
+        <song>
+            <name>3. Wewe</name> 
+            <duration>Duration: [02:54]</duration>
+            <artist>Artist(s): Ruger</artist> 
+            <album>Album: The Second Wave</album>
+            <genre>Genre: Afrobeats</genre> 
+            <year>Year: 2022</year>  
+        </song>
+        <song>
+            <name>4. Dear God</name> 
+            <duration>Duration: [03:23]</duration>
+            <artist>Artist(s): Dax</artist> 
+            <album>Album: None</album>
+            <genre>Genre: Hip-Hop/Rap</genre> 
+            <year>Year: 2020</year>  
+        </song>
+        <song>
+            <name>5. Pink + White</name> 
+            <duration>Duration: [03:05]</duration>
+            <artist>Artist(s): Frank Ocean</artist> 
+            <album>Album: Blonde</album>
+            <genre>Genre: Indie/R&amp;B</genre> 
+            <year>Year: 2016</year>
+        </song>
+        <song>
+            <name>6. Monster</name> 
+            <duration>Duration: [4:35]</duration>
+            <artist>Artist(s): Justin Bieber, Shawn Mendes</artist> 
+            <album>Album: Wonder</album>
+            <genre>Genre: Indie/Alternative</genre> 
+            <year>Year: 2020</year>
+        </song>
+        <song> 
+            <name>7. Nate</name> 
+            <duration>Duration: [05:02]</duration>
+            <artist>Artist(s): NF</artist> 
+            <album>Album: The Search</album>
+            <genre>Genre: Rap</genre> 
+            <year>Year: 2019</year>
+        </song> 
+        <song>
+            <name>8. How To Love</name> 
+            <duration>Duration: [4:01]</duration>
+            <artist>Artist(s): Lil Wayne</artist> 
+            <album>Album: The Carter IV</album>
+            <genre>Genre: Hip-Hop/Rap</genre> 
+            <year>Year: 2011</year>
+        </song>
+        <song>
+            <name>9. W.A.Y.S</name> 
+            <duration>Duration: [03:58]</duration>
+            <artist>Artist(s): Jhené Aiko</artist> 
+            <album>Album: Souled Out</album>
+            <genre>Genre: R&amp;B/Soul</genre> 
+            <year>Year: 2014</year>
+        </song>
+        <song>
+            <name>10. LOST</name> 
+            <duration>Duration: [03:54]</duration>
+            <artist>Artist(s): NF, Hopsin</artist> 
+            <album>Album: CLOUDS (Mixtape)</album>
+            <genre>Genre: Hip-Hop/Rap</genre> 
+            <year>Year: 2021</year>
+        </song>
+        <song>
+            <name>11. Favorite Mistake</name> 
+            <duration>Duration: [02:52]</duration>
+            <artist>Artist(s): Giveon</artist> 
+            <album>Album: Take Time</album>
+            <genre>Genre: R&amp;B/Soul</genre> 
+            <year>Year: 2020</year>
+        </song>
+        <song>
+            <name>12. Coachella</name> 
+            <duration>Duration: [03:05]</duration>
+            <artist>Artist(s): Sarkodie &amp; Kwesi Arthur</artist> 
+            <album>Album: None</album>
+            <genre>Genre: Hip-Hop/Rap</genre> 
+            <year>Year: 2021</year>
+        </song>
+    </body>
+</songlist> 
